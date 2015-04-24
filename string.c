@@ -9,7 +9,7 @@ size_t my_strlen(char *s)
 
    return (p - s);
 }
-
+//Checking pulling of specigic file
 int main(void)
 {
    int i;
